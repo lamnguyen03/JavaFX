@@ -5,7 +5,7 @@
 
 2. Entity Relationship Model, em chỉ mới tạo một bảng cho nên không có mối quan hệ nào cả.
 
-![img_1.png](img_1.png)
+![image](https://user-images.githubusercontent.com/97352277/173565908-45369821-8efa-4bd7-888f-ced5b787de77.png)
 
 - Đây là một vài dữ liệu mà em đã tạo
 ![img_2.png](img_2.png)
