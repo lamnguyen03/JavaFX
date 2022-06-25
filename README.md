@@ -24,5 +24,3 @@
 6. Giao diện sau khi chạy:
 ![img_3.png](img_3.png)
 =======
-
->>>>>>> 73b44283d4146dfd8156f8bab45064a80fe2c9ab
